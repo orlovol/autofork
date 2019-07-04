@@ -20,7 +20,7 @@ suitable for deployment on [ZEIT Now](https://zeit.co/now).
 ### Obtaining the code
 
 1. Use the [live Autofork application](https://autofork.orlovol.now.sh/) or
-    fork the [original repository](https://github.com/hey-sancho/autofork) manually.  
+    fork the [original repository](https://github.com/orlovol/autofork) manually.  
     This will make your own copy of the Autofork repository in your GitHub account.
 2. [Clone](https://help.github.com/en/articles/cloning-a-repository-from-github)
     the repository to download the code to your local machine.
@@ -157,4 +157,4 @@ in your credentials to your local server address.
 
 ## Contact
 
-If you have questions or encounter any issues, feel free to [open up an issue](https://github.com/hey-sancho/autofork/issues/new).
+If you have questions or encounter any issues, feel free to [open up an issue](https://github.com/orlovol/autofork/issues/new).
